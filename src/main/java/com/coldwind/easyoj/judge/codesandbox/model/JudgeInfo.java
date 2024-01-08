@@ -1,6 +1,8 @@
-package com.coldwind.easyoj.model.dto.qustionsubmit;
+package com.coldwind.easyoj.judge.codesandbox.model;
 
 import lombok.Data;
+
+import java.io.Serializable;
 
 /**
  * 判题信息
@@ -8,7 +10,7 @@ import lombok.Data;
  * @since 2023/12/22 15:26
  */
 @Data
-public class JudgeInfo {
+public class JudgeInfo implements Serializable {
     /**
      * 程序执行信息
      */
