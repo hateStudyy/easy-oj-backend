@@ -2,8 +2,7 @@ package com.coldwind.easyoj.esdao;
 
 import com.coldwind.easyoj.model.dto.post.PostEsDTO;
 import com.coldwind.easyoj.model.dto.post.PostQueryRequest;
-import com.coldwind.easyoj.model.entity.Post;
-import com.coldwind.easyoj.service.PostService;
+
 import java.util.Arrays;
 import java.util.Date;
 import java.util.List;

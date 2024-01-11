@@ -2,7 +2,7 @@ package com.coldwind.easyoj.service;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.coldwind.easyoj.model.dto.post.PostQueryRequest;
-import com.coldwind.easyoj.model.entity.Post;
+
 import javax.annotation.Resource;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

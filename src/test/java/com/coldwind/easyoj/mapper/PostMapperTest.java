@@ -1,6 +1,5 @@
 package com.coldwind.easyoj.mapper;
 
-import com.coldwind.easyoj.model.entity.Post;
 import java.util.Date;
 import java.util.List;
 import javax.annotation.Resource;
